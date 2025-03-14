@@ -12,10 +12,12 @@ Ensure you have the following installed:
 ## Installation
 
 1. Clone the repository:
+
    ```bash
-   git clone <repository-url>
-   cd <project-folder>
+   git clone https://github.com/Senpxi69/user-management.git
+
    ```
+
 2. Install dependencies:
    ```bash
    npm install
